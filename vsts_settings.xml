@@ -1,10 +1,24 @@
 <application>
   <component name="VSTSSettings">
     <option name="serverContexts">
-      <array />
+      <array>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://dev.azure.com/storeit" />
+          <option name="serverUri" value="https://dev.azure.com/storeit" />
+          <option name="userId" value="05d5cae7-6759-6a6a-9abf-1d183d088c31" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
+        </ServerContextState>
+      </array>
     </option>
     <option name="properties">
-      <array />
+      <array>
+        <PropertyState>
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//dev.azure.com/storeit" />
+        </PropertyState>
+      </array>
     </option>
   </component>
 </application>
