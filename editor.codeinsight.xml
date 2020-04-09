@@ -1,0 +1,6 @@
+<application>
+  <component name="RiderCodeCompletionExtraSettings">
+    <option name="alwaysCompleteWithEnter" value="false" />
+    <option name="hasNotifiedAboutCompletingWithEnter" value="true" />
+  </component>
+</application>
