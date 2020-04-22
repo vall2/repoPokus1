@@ -4,6 +4,15 @@
       <array>
         <ServerContextState>
           <option name="type" value="VSO" />
+          <option name="uri" value="https://storeit@dev.azure.com/storeit/skymamba/_git/api-client" />
+          <option name="serverUri" value="https://dev.azure.com/storeit" />
+          <option name="userId" value="05d5cae7-6759-6a6a-9abf-1d183d088c31" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;bdb7a451-6e48-435b-aadf-6604ab60fd11&quot;,&quot;name&quot;:&quot;storeit&quot;,&quot;url&quot;:&quot;https://dev.azure.com/storeit/_apis/projectCollections/bdb7a451-6e48-435b-aadf-6604ab60fd11&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;The backend framework and architecture used to run the Inspire Cloud and the OMS projects.&quot;,&quot;id&quot;:&quot;22f2701e-865b-449d-8294-98e33ffbac16&quot;,&quot;name&quot;:&quot;skymamba&quot;,&quot;revision&quot;:160,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/storeit/_apis/projects/22f2701e-865b-449d-8294-98e33ffbac16&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;b180b721-8150-413d-b70f-261b3e6f9517&quot;,&quot;name&quot;:&quot;api-client&quot;,&quot;remoteUrl&quot;:&quot;https://storeit@dev.azure.com/storeit/skymamba/_git/api-client&quot;,&quot;url&quot;:&quot;https://dev.azure.com/storeit/_apis/git/repositories/b180b721-8150-413d-b70f-261b3e6f9517&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;The backend framework and architecture used to run the Inspire Cloud and the OMS projects.&quot;,&quot;id&quot;:&quot;22f2701e-865b-449d-8294-98e33ffbac16&quot;,&quot;name&quot;:&quot;skymamba&quot;,&quot;revision&quot;:160,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/storeit/_apis/projects/22f2701e-865b-449d-8294-98e33ffbac16&quot;}}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
           <option name="uri" value="https://dev.azure.com/storeit" />
           <option name="serverUri" value="https://dev.azure.com/storeit" />
           <option name="userId" value="05d5cae7-6759-6a6a-9abf-1d183d088c31" />
@@ -25,7 +34,7 @@
       <array>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//storeit@dev.azure.com/storeit/bpa-platform/_git/oms500" />
+          <option name="value" value="//storeit@dev.azure.com/storeit/skymamba/_git/api-client" />
         </PropertyState>
       </array>
     </option>
