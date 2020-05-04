@@ -1,7 +1,9 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
-      <action id="MoveLineDown" />
+      <action id="MoveLineDown">
+        <abbreviation name="Alt+Shift+Down" />
+      </action>
     </abbreviations>
   </component>
 </application>
