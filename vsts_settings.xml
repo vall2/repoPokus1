@@ -4,15 +4,6 @@
       <array>
         <ServerContextState>
           <option name="type" value="VSO" />
-          <option name="uri" value="https://storeit@dev.azure.com/storeit/bpa-platform/_git/inachis" />
-          <option name="serverUri" value="https://dev.azure.com/storeit" />
-          <option name="userId" value="05d5cae7-6759-6a6a-9abf-1d183d088c31" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;bdb7a451-6e48-435b-aadf-6604ab60fd11&quot;,&quot;name&quot;:&quot;storeit&quot;,&quot;url&quot;:&quot;https://dev.azure.com/storeit/_apis/projectCollections/bdb7a451-6e48-435b-aadf-6604ab60fd11&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Business process automation platform. Formerly known as OMS Services or Oms’s.&quot;,&quot;id&quot;:&quot;c204be5a-8a7d-451c-b6d4-6a18a2927ce2&quot;,&quot;name&quot;:&quot;bpa-platform&quot;,&quot;revision&quot;:323,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/storeit/_apis/projects/c204be5a-8a7d-451c-b6d4-6a18a2927ce2&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;d32abdf5-c7d6-441e-bf5e-4dc525ba3d60&quot;,&quot;name&quot;:&quot;inachis&quot;,&quot;remoteUrl&quot;:&quot;https://storeit@dev.azure.com/storeit/bpa-platform/_git/inachis&quot;,&quot;url&quot;:&quot;https://dev.azure.com/storeit/_apis/git/repositories/d32abdf5-c7d6-441e-bf5e-4dc525ba3d60&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Business process automation platform. Formerly known as OMS Services or Oms’s.&quot;,&quot;id&quot;:&quot;c204be5a-8a7d-451c-b6d4-6a18a2927ce2&quot;,&quot;name&quot;:&quot;bpa-platform&quot;,&quot;revision&quot;:323,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/storeit/_apis/projects/c204be5a-8a7d-451c-b6d4-6a18a2927ce2&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
           <option name="uri" value="https://storeit@dev.azure.com/storeit/skymamba/_git/api-client" />
           <option name="serverUri" value="https://dev.azure.com/storeit" />
           <option name="userId" value="05d5cae7-6759-6a6a-9abf-1d183d088c31" />
